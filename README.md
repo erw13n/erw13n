@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there, I am Erwin 👋
+
+> A software engineer from **Indonesia**.
+
+### 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erw13n&theme=react-dark)](https://github.com/erw13n)
 
 <!--
 **erw13n/erw13n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
